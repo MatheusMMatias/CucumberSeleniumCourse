@@ -19,3 +19,4 @@ Feature: Search for products on the website pages
       | ProductShortName |
       | Tom              |
       | Straw            |
+      | Beet             |
